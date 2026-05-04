@@ -58,3 +58,5 @@ for p in range(1, 13):
     st.write(f"- サービスエース率：{ace / total * 100:.1f}%")
     st.write(f"- ミス率：{miss / total * 100:.1f}%")
     st.write("---")
+
+
